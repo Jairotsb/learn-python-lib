@@ -1,0 +1,455 @@
+Nº,Objeto,OM,Solicitante,Solucionador,U. Afetado,Status,Dt. Ab.,Ult. Mod.,Descrição do Problema,Dias Contados
+1638124,[EEAR] REDE FÍSICA,GSD-GW,[GSD-GW] SO ENDERSON,N/A,[GSD-GW] SO - ENDERSON,ABERTO,30/04/2024,01/05/2024,Solicito a possibilidade de verificar o acesso do CVE ao Gravador (DVR) que está instalado no Rack da PA. Grato!,5
+1636449,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2S LUANA,N/A,[EEAR] 2S - LUANA,ABERTO,29/04/2024,01/05/2024,"Bom dia. Informo que o computador localizado na sargenteação do Esquadrão Azul (sala central), está sem acesso a rede Intraer e Internet. Um militar já veio verificar a situação e informou que será necessário verificar o cabeamento e a parte estrutural do local. Respeitosamente, 2S Luana.",6
+1630983,[EEAR] REDE FÍSICA,EEAR,[EEAR] S1 MANOEL,N/A,[EEAR] S1 - MANOEL,ABERTO,23/04/2024,24/04/2024,Solicito ao Sr. a manutenção no ponto de rede no Setor de Material da Seção Contra Incêndio.,12
+1628434,[EEAR] REDE FÍSICA,EEAR,[EEAR] 1S ERICK DE FARIA,N/A,[EEAR] 1S - ERICK DE FARIA,ABERTO,22/04/2024,22/04/2024,"O cabo de rede do meu computador não está funcionando.
+Fiz o teste com outro cabo e o computador teve acesso a rede. Por isso venho através dessa solicitação pedir a troca do cabo.
+O computador se encontra no galpão E-115, sala Chefia.",13
+1625146,[EEAR] REDE FÍSICA,EEAR,[EEAR] CB BARROS,N/A,[EEAR] CB - BARROS,ABERTO,17/04/2024,17/04/2024,Informo que 1 ponto de rede não está funcionando na SSGR. ,18
+1624670,[EEAR] REDE FÍSICA,EEAR,solicitante,N/A,[EEAR] 1S - VINICIUS,ABERTO,17/04/2024,17/04/2024,Bom dia!  Desde a semana passada o meu ponto de rede não funciona. Importante ressaltar que as demais seções vizinhas estão com a intraer funcionando normalmente. A secão é o setor de equipamento de voo localizado na SAPA. Como a distância entre nós é grande posso oferecer apoio de viatura desde que entrem em contato antes no ramal 7472 e peça para conversar com o 1S BEV Vinicius. Obrigado! ,18
+1624463,[EEAR] REDE FÍSICA,EEAR,[EEAR] CP WERNECK,N/A,[EEAR] CP - WERNECK,ABERTO,17/04/2024,17/04/2024,Solicito revisão no ponto de rede da Seção de Provas (após a troca da switch o ponto parou de funcionar).,18
+1621480,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2S ADRIANA,N/A,[EEAR] 2S - ADRIANA,ABERTO,15/04/2024,22/04/2024,"Boa tarde, por gentileza, estou precisando de uma verificação no meu ponto de rede que parou de funcionar. SDOC-3 Licitações e Contratos. Nesse momento estou tendo que usar outro ponto pois o meu parou de funcionar. Sgt Adriana. Desde já. Obrigada!",20
+1620792,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2S JOYCE REIS,N/A,[EEAR] 2S - JOYCE REIS,ABERTO,15/04/2024,22/04/2024,Solicito manutenção das seguintes panes no Prédio E-012 do Esquadrão Verde. O fio precisa ser estendido e se encontra na sacada do lado esquerdo do esquadrão. Solicitante 2S JOYCE REIS 7683,20
+1613737,[EEAR] REDE FÍSICA,GSAU-GW,[GSAU-GW] 2T LUANA,N/A,[GSAU-GW] 2T - LUANA,ABERTO,09/04/2024,22/04/2024,"Bom dia! Solicito a gentileza de instalação (de preferência no período da manhã), de um ponto de rede na sala de paramentação II da SSMAN - Subseção de Manipulação, pois num futuro próximo será instalada uma câmera no local. Grata. ",26
+1612327,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2T FELIPE SOARES,N/A,[EEAR] 2T - FELIPE SOARES,ABERTO,08/04/2024,10/04/2024,"Favor substituir o conector RJ-45-MACHO, pois está com o pino que mantém ele preso na tomada quebrado, impossibilitando assim, uma oscilação constante na rede. Obrigado.",27
+1609549,[EEAR] REDE FÍSICA,EEAR,[EEAR] 3S CARLOS,N/A,[EEAR] 3S - CARLOS,ABERTO,04/04/2024,05/04/2024,"Instalação de ponto de rede no Setor de Instrução da Seção Contraincêndio.
+Informações ramal 7608 - Sgt Vinícius. ",31
+1609176,[EEAR] REDE FÍSICA,EEAR,[EEAR] 1S VILELA,N/A,[EEAR] 2T - COPELLO,ABERTO,04/04/2024,05/04/2024,Informo que a rede intraer/internet do PLACON da SAPA está saindo e voltando com muita frequência. Hora está pegando e hora fica um tempo sem pegar. Já foi realizado outros reparos nos fios de rede em outro SAUs porém vejo que ainda temos este problema. Receio que o HUB possa estar com mau contato nos terminais ou os flanges dos fios estejam ruins. Agradeço desde já atenção dos senhores. 1S Vilela. Ramal 7472 (Sgt Operações).,31
+1608426,[EEAR] REDE FÍSICA,EEAR,[EEAR] 3S JULIANA ROCHA,N/A,[EEAR] 3S - JULIANA ROCHA,ABERTO,03/04/2024,05/04/2024,"Informo que os computadores da SCI encontram-se com rede, porém, não está sendo possível acessar o intraer, mesmo realizando a configuração de Proxy.",32
+1607621,[EEAR] REDE FÍSICA,EEAR,[EEAR] S2 REZENDE,N/A,[EEAR] S2 - REZENDE,ABERTO,03/04/2024,05/04/2024,"USUARIO: SO WALLACE 
+RAMAL: 7551 
+DESCRIÇÃO : COMPUTADOR DO SO WALLACE ENCARREGADO DA SECRETARIA DO SMBI ESTÁ SEM REDE IMPOSSIBILITANDO ACESSO AO INTRAER E INTERNET.
+TEMPO SEM FUNCIONAMENTO : 01 DIA 
+
+RESPEITASOAMENTE S2 REZENDE   ",32
+1607587,[EEAR] REDE FÍSICA,EEAR,[EEAR] S1 VIEIRA,N/A,[EEAR] CP - DINIZ,ABERTO,03/04/2024,05/04/2024,Bom dia! Solicito a instalação de pontos de rede em todas as baias dos computadores da sala CLICA localizada na SAEEAR.,32
+1602895,[EEAR] REDE FÍSICA,GSAU-GW,[GSAU-GW] S2 XIMENES,N/A,[GSAU-GW] S2 - XIMENES,ABERTO,28/03/2024,28/03/2024,"Bom dia, solicito a possibilidade de instalação de cabeamento físico de rede de internet numa das da SATC do GSAU-GW desta Escola. Coloco-me a disposição por meio do ramal descrito para quais esclarecimentos que se fizerem necessários. ",38
+1602916,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2S NASCIMENTO,N/A,[EEAR] TC - MARCONI,ABERTO,28/03/2024,28/03/2024,O ponto de rede da impressora 07-eear-def-sdpl está com mal contato.,38
+1600815,[EEAR] REDE FÍSICA,EEAR,[EEAR] 1S FILIPE,N/A,[EEAR] 1S - FILIPE,ABERTO,26/03/2024,22/04/2024,"Conforme contato telefônico, informo que estamos como problemas no ponto de rede da sala de aula na Subseção de Ensino de Material Bélico (GBMB).
+Executamos testes com cabos de rede que estão em uso, porém nesse ponto, na sala de aula, não está funcionando.
+Fico à disposição para esclarecimentos que se fizerem necessários.
+Grato.",40
+1595001,[EEAR] REDE FÍSICA,EEAR,[EEAR] 1S L GUSTAVO,N/A,[EEAR] 1S - L GUSTAVO,ABERTO,20/03/2024,28/03/2024,"Informo que a saída de internet da mesa do professor civil Eduardo, que fica na sala de português na ala E da D.E, não está funcionando, foi feito um teste com o PC do professor em outra saída e funcionou normalmente, ficando constatado a pane na saída próximo à mesa dele. Para qualquer dúvida me contactar no ramal 7609 (SSEC). ",46
+1594485,[EEAR] REDE FÍSICA,EEAR,[EEAR] 3S M. FERRAZ,N/A,[EEAR] 3S - M. FERRAZ,ABERTO,20/03/2024,22/03/2024,"POR ORIENTAÇÃO DO SENHOR CHEFE DA SDSG, SOLICITAMOS A POSSIBILIDADE DE REPAROS DA REDE FÍSICA GERAL DA STRS.",46
+1590561,[EEAR] REDE FÍSICA,EEAR,[EEAR] 3S CARLOS,N/A,[EEAR] 3S - CARLOS,ABERTO,15/03/2024,28/03/2024,"Possibilidades de instalação de ponto de conexão de rede, no Setor de Gestão de Brigada (Extintores) da Seção Contraincêndio do EC da EEAR. ",51
+1589071,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2S LUANA,N/A,[EEAR] 2S - LUANA,ABERTO,14/03/2024,23/04/2024,"Boa tarde. Informo que o computador SDPM-0-3527 (Esquadrão Azul - Sala localizada na parte central da sargenteação) não está com acesso a internet. O cabo de rede ou local onde sai o ponto de rede, provavelmente, esteja em pane. Respeitosamente, 2S Luana.",52
+1584971,[EEAR] REDE FÍSICA,GSD-GW,[GSD-GW] SO MARCIO ROCHA,N/A,[GSD-GW] SO - MARCIO ROCHA,ABERTO,12/03/2024,13/03/2024,"Solicito a manutenção e reparo a pedido do MAJ QOINF CRUZ ,Comandante do GSD-GW, que tem cabos de rede atrás do alojamento dos recrutas soltos e em mau estado. Qualquer dúvida entrar em contato no Ramal (7725).",54
+1581572,[EEAR] REDE FÍSICA,EEAR,[EEAR] 1S RICHARD,N/A,[EEAR] 1S - RICHARD,ABERTO,08/03/2024,11/03/2024,Solicito apoio para verificação nas instalações de rede do auditório da Seção de Instrução Militar do CA. O computador não está conectando à rede em nenhuma das portas do auditório.,58
+1575820,[EEAR] REDE FÍSICA,GSAU-GW,[GSAU-GW] 1T BENFICA,N/A,[GSAU-GW] 1T - BENFICA,ABERTO,05/03/2024,06/03/2024,Solicito por gentileza a finalização da instalação da rede de internet no computador do balcão da fisioterapia. Grata !  2 T BENFICA Ramal: 7482,61
+1558941,[EEAR] REDE FÍSICA,EEAR,[EEAR] SO ZACCARO,N/A,[EEAR] 1S - EVANDRO,ABERTO,21/02/2024,26/02/2024,Lançamento de fibra óptica e instalação de rack para modificação da topologia de entrada de sinal de intraer no galpão de Comunicações.,74
+1551180,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2S SOARES,N/A,[EEAR] 2S - SOARES,ABERTO,15/02/2024,22/04/2024,"Solicito ao Senhor a readequação dos pontos de rede localizados no laboratório de informática da Subseção de Ensino de Informações Aeronáuticas, existem pontos de rede que não funcionam. Respeitosamente 3S Soares. Ramal 7641",80
+1546846,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2S KELLY,N/A,[EEAR] 2S - KELLY,ABERTO,07/02/2024,08/02/2024,"SAPA:
+
+Os cabos de rede da seção de Operações e da secretaria da SAPA estão com mal contato, ocasionando a oscilação da rede o tempo inteiro. Há um ponto que precisa ser refeito pois está solto na parede.",88
+1545400,[EEAR] REDE FÍSICA,GSD-GW,[GSD-GW] 2S TITO,N/A,[GSD-GW] 2S - TITO,ABERTO,06/02/2024,08/02/2024,GSD GW- ESQUADRÃO DE SEGURANÇA DAS INSTALAÇÕES- 7983- SOLICITO A POSSIBILIDADE DE SER INSTALADO CABEAMENTO DE REDE INTRAER PARA MINISTRAR INSTRUÇÕES NA SALA DE INSTRUÇÃO DO ESQUADRÃO DE SEGURANÇA DAS INSTALAÇÕES.,89
+1544735,[EEAR] REDE FÍSICA,EEAR,[EEAR] S2 PAIXÃO,N/A,[EEAR] S2 - PAIXÃO,ABERTO,06/02/2024,08/02/2024,"Ao ligar o computador após inserir usuário e senha, a seguinte mensagem é exibida: O banco de dados de segurança no servidor não tem uma conta de computador para a relação de confiança desta estação de trabalho. 
+Fazendo a troca do cabo para outro ponto o computador inicia normalmente. ",89
+1543858,[EEAR] REDE FÍSICA,EEAR,[EEAR] 1S EVANDRO,N/A,[EEAR] 1S - EVANDRO,ABERTO,05/02/2024,08/02/2024,Solicito a possibilidade de realizar a conexão de rede da Sala 3 da Subseção de Ensino de Comunicações na switch principal de  distribuição.,90
+1543854,[EEAR] REDE FÍSICA,EEAR,[EEAR] 1S EVANDRO,N/A,[EEAR] 1S - EVANDRO,ABERTO,05/02/2024,08/02/2024,Solicito a posibilidade de realizar teste de conexão nas bancadas 01 a 10 da Sala 7 da Subseção de Ensino de Comunicações. Informo que as bancadas serão utilizadas nas disciplinas de PTEL e PRIV.,90
+1540417,[EEAR] REDE FÍSICA,EEAR,[EEAR] 3S ELEVOIR,N/A,[EEAR] 3S - ELEVOIR,ABERTO,01/02/2024,08/02/2024,Solicito a possibilidade de instalação de um novo ponto de rede na Secretaria Acadêmica.,94
+1538344,[EEAR] REDE FÍSICA,GSD-GW,[GSD-GW] 1S VLADIMIR,N/A,[GSD-GW] 1S - VLADIMIR,ABERTO,30/01/2024,09/02/2024,Solicito a presença de uma equipe técnica para avaliação e reativação do ponto de rede nas dependências do Material Bélico do C.A.. Informo ainda que faz-se necessária devido a tramitação de documentos e consultas em sistemas para fornecimento e recebimento de material.,96
+1529243,[EEAR] REDE FÍSICA,EEAR,[EEAR] 1S L GUSTAVO,N/A,[EEAR] 1S - L GUSTAVO,ABERTO,22/01/2024,23/02/2024,"Solicito, se possível, a troca do switch de rede da sala dos professores civis de português na ala E do prédio da DEF, pois o mesmo está com mau contato, para qualquer dúvida me contactar no ramal 7609 SSEC.",104
+1528942,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2S TOLEDO,N/A,[EEAR] 2S - TOLEDO,ABERTO,22/01/2024,23/02/2024,Consulto quanto a possibilidade de instalar dois pontos de rede na SMOB.,104
+1524854,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2S VICENTE,N/A,[EEAR] 2S - VICENTE,ABERTO,16/01/2024,23/02/2024,"Na sala de Desenvolvimento do prédio E-115, falta um ponto de rede para o computador que se encontra ao lado da porta, com isso não é possível acessar a Intraer. Haveria a possibilidade de colocar um adaptador de rede + o cabo de rede para que conecta-se tal computador ao ponto mais próximo de internet?",110
+1523419,[EEAR] REDE FÍSICA,EEAR,[EEAR] SO M. ALMEIDA,N/A,[EEAR] SO - M. ALMEIDA,ABERTO,15/01/2024,23/02/2024,"Solicito por gentileza, averiguação do ponto de rede localizado na sala do GBCT. visto que já foi realizado inspeção no equipamento microcomputador pela SDTIC e constatado que a pane se encontra no ponto físico de rede.",111
+1523274,[EEAR] REDE FÍSICA,EEAR,[EEAR] SO CARLOS REZENDE,N/A,[EEAR] SO - CARLOS REZENDE,ABERTO,15/01/2024,23/02/2024,Solicito a verificação da rede de dados intraer/internet do auditório do prédio E-108 que se encontra inoperante. Este problema prejudica as instruções.,111
+1520228,[EEAR] REDE FÍSICA,EEAR,[EEAR] CP TONETTI,N/A,[EEAR] CP - TONETTI,ABERTO,10/01/2024,10/01/2024,"Solicito a liberação de porta de rede na Seção de instrução Militar do corpo de Alunos, já existe o ponto de acesso necessitando a liberação ",116
+1519123,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2T FREIRE,N/A,[EEAR] 2T - FREIRE,ABERTO,09/01/2024,22/04/2024,"Bom dia!
+
+A Seção de Educação Física do Corpo de Alunos necessita da instalação de  um ponto de rede de internet para microcomputador. ",117
+1518613,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2S L. RODRIGUES,N/A,[EEAR] 2S - L. RODRIGUES,ABERTO,08/01/2024,22/04/2024,"Consulto quanto a possibilidade de ativação de ponto de rede tendo em vista a chegada de mais um militar no efetivo do Esquadrão Prata. Prédio E-010.
+
+
+Respeitosamente,
+Layla Moreira Rodrigues 2S SAD",118
+1458180,[EEAR] REDE FÍSICA,EEAR,[EEAR] SO ASSIS DA SILVA,N/A,[EEAR] SO - ASSIS DA SILVA,ABERTO,25/10/2023,17/11/2023,"SOLICITO A POSSIBILIDADE DE QUE SEJA INSTALADO UMA REDE VIA INTRAER/INTERNET NA SEÇÃO DE LOGÍSTICA (APOIO) DA DIVISÃO DE ADMISSÃO E SELEÇÃO (DAS), A MESMA COM ACESSO A PASTA EEAR (\\fenix.eear.intraer) (V:)",193
+1421394,[EEAR] REDE FÍSICA,EEAR,[EEAR] CB MARIANO,N/A,[EEAR] CB - MARIANO,ABERTO,14/09/2023,19/09/2023,"Solicito ao(à) senhor(a) a verificação da saída de rede no subsetor de almoxarifado da Seção ContraIncendio (SCI), pois o mesmo se encontra com queda constante de conexão de rede.",234
+1412594,[EEAR] REDE FÍSICA,EEAR,[EEAR] SO RIBEIRO,N/A,[EEAR] SO - RIBEIRO,ABERTO,05/09/2023,19/09/2023,Solicito a possibilidade de gestões no sentido de instalar um ponto de rede no computador da secretaria do EC/SAPA.,243
+1388964,[EEAR] REDE FÍSICA,EEAR,[EEAR] SO ALEX,N/A,[EEAR] SO - ALEX,ABERTO,11/08/2023,14/08/2023,"Solicito a possibilidade de instalação de rede nas salas do GSGS, a fim de serem utilizadas para apoio as instruções, bem como utilizá-las nas vídeo conferência solicitadas pelo COMPREP. ",268
+1370671,[EEAR] REDE FÍSICA,EEAR,[EEAR] SO J. NETO,N/A,[EEAR] SO - J. NETO,ABERTO,26/07/2023,19/09/2023,"Por solicitação da Chefia da GBCT, consulto a possibilidade de que sejam instalados um total de mais 13 (treze) pontos de acesso à Rede Intraer no prédio E115 da Subseção de Ensino de Controle de Tráfego Aéreo (GBCT), sendo 8 (oito) pontos na antiga sala de reuniões (primeira sala à direita de quem entra no prédio), 4 (quatro) pontos na sala da coordenação e 1 (um) ponto na antiga sala de desenvolvimento (ao lado do antigo depósito de material). Importante ressaltar que este SAU NÃO anula o SAU 1358945 aberto pelo 1S Claudino, onde foi solicitado mais 16 (dezesseis) pontos de acesso à rede Intraer na sala dos instrutores localizada no fundo do prédio E115 (próximo ao banheiro feminino).
+",284
+1360001,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2S VASCONCELOS,N/A,[EEAR] 2S - VASCONCELOS,ABERTO,13/07/2023,19/09/2023,Consulto ao Sr. a possibilidade de se realizar a instalação de 2 pontos de rede intraer na sala técnica do prédio E-115 do Galpão de Controle de Tráfego Aéreo (GBCT). Cordialmente.,297
+1263560,[EEAR] REDE FÍSICA,EEAR,[EEAR] 2S DIOGO,N/A,[EEAR] 2S - DIOGO,ABERTO,10/04/2023,19/09/2023,"Instalação/reativação de ponto de rede na antiga seção de combustível e lubrificante, devido o início de obra na STRS.",391
+1054403,[EEAR] REDE FÍSICA,EEAR,[GSD-GW] SO ENDERSON,N/A,[GSD-GW] SO - ENDERSON,AÇÃO FUTURA,25/08/2022,22/04/2024,"Solicito ao Senhor a possibilidade de reinstalação do ponto de rede na Seção de Operações do CA, pois as câmeras que operam naquela região, inclusive as câmeras do Material Bélico do CA, estão sem visualização no posto de serviço da SOT (SOP do GDS-GW). Grato!",619
+1640781,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2S ANA CAROLINA,[EEAR] S2 - ROCHA,[EEAR] 2S - ANA CAROLINA,ATENDIMENTO,02/05/2024,02/05/2024,"Boa tarde! Solicito aos senhores a verificação do drive da impressora utilizada na DAS, conforme visita técnica realizada na data de hoje, nos computadores dos seguintes militares: 2S Ana Carolina, 1S Suelen, 1S Cavalca e SO Assis. Grata. Respeitosamente/Atenciosamente.",3
+1639449,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1S TOMÁS CALDAS,[EEAR] S2 - EMERSON,[EEAR] 1S - TOMÁS CALDAS,ATENDIMENTO,01/05/2024,01/05/2024,"Informo que a função ""GBET-EF1"" do SIGADAER está associada ao SO BET Marcelo Siqueira e a mim, 1S BET Tomás Caldas. 
+Solicito a possibilidade de retirar o SO BET Marcelo Siqueira desta função, mantendo somente o 1S BET Tomás Caldas na função.
+Função:
+         GBET-ENC: SO BET Marcelo Siqueira
+         GBET-EF1:  1S BET Tomás Caldas
+",4
+1638686,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2S MESSIAS,[EEAR] 3S - ALEXANDER,[EEAR] 2S - MESSIAS,ATENDIMENTO,30/04/2024,02/05/2024,"Solicito troca da aba do sigadaer  do 2S SML MESSIAS do Ef do GSML para GSDE. 
+Solicito troca da aba do sigadaer da 2S SDE TACIANE DUARTE do Ef do GSDE para ENC GSDE ",5
+1636475,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] S2 NONATO,[EEAR] 3S - ALEXANDER,[EEAR] S2 - NONATO,ATENDIMENTO,29/04/2024,02/05/2024,"O Sistema de gerar GRU do hotel de trânsito encontra-se inoperante, abaixo mais detalhes do problema.
+
+Não aparece o código de recolhimento 22046-9, referente a cobrança de diária de hospedagens.",6
+1636302,[EEAR] SUPORTE AO USUÁRIO ,GSAU-GW,[GSAU-GW] CP SÔNIA,[EEAR] 3S - TUNISSE,[GSAU-GW] CP - SÔNIA,ATENDIMENTO,29/04/2024,30/04/2024,"Solicito adicionar as comissões 3770000256 e 3770000257 de medicamento e material do GSAU-GW, respectivamente, na tela """"Central de Pedidos - aba: Administrar Processo"" do módulo Suprimento do SILOMS.
+
+ ",6
+1636136,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] CB W. SILVA,[EEAR] CB - ROSA MOURA,[EEAR] CB - W. SILVA,ATENDIMENTO,29/04/2024,30/04/2024,"Solicito a possibilidade de fazer instalação da impressora HP1102w nos computadores da secretária da SCTAE.
+Informe que a impressora não está na rede. ",6
+1635750,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] SO JONATAS,[EEAR] S2 - ROCHA,[EEAR] SO - JONATAS,ATENDIMENTO,26/04/2024,26/04/2024,Solicito-vos o BACKUP das pastas da Ten SINDRA (chefe da climatização) que consta na  CPU SDTM-0-4846 presente na Seção de Tratamento de água. Informo-vos que a referida militar não consta mais do efetivo da EEAR. ,9
+1635748,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 3S DANIEL,[EEAR] 3S - TUNISSE,[EEAR] 3S - DANIEL,ATENDIMENTO,26/04/2024,01/05/2024,"Informo que o equipamento Xerox PrimeLink 2940 (118) , encontra-se com falha nas cópias e com as cópias claras.",9
+1635520,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1S M. JÚNIOR,[EEAR] S2 - ROCHA,[EEAR] 2T - THAMÁSIA,ATENDIMENTO,26/04/2024,29/04/2024,"Solicito manutenção para o equipamento identificado abaixo:
+EQUIPAMENTO: (IMPRESSORA PLOTTER)
+Nº BMP: (1271999)
+DEPENDÊNCIA: DEF/STE-6/GSDE
+BOLETIM: (EM CASO DE IMPEDIMENTO DO DETENTOR DA CARGA, SE HOUVER)
+PROBLEMA: (Solicito manutenção do equipamento, o mesmo não está imprimido)",9
+1631549,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 3S PEREIRA,[EEAR] 3S - ALEXANDER,[EEAR] 3S - PEREIRA,ATENDIMENTO,24/04/2024,01/05/2024,"Solicito a instalação da impressora XEROX da Seção de Protocolo e Arquivo (SPROT) ao computador localizado no Arquivo Geral, IP: 10.128.20.133.",11
+1628923,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] CB GUILHERME,[EEAR] S2 - ROCHA,[EEAR] CB - GUILHERME,ATENDIMENTO,22/04/2024,26/04/2024,"Bom Dia, 
+
+Solicito a possibilidade de habilitação da assinatura digital no SIGADAER para os seguintes Militares:
+
+1S AMANDA  (414618-2)
+1S LUÍZA (444106-0)
+2S LEILANE (612777-0)
+2S ARIELE (620800)
+3S MATIAS (669982-0)
+1S RENATA (444116-8)
+2S RAPAHEL (383560-0)
+2S KAREN ÁVILA (671343-2)
+",13
+1627926,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1T RAFAEL,[EEAR] 3S - ALEXANDER,[EEAR] 1T - RAFAEL,ATENDIMENTO,19/04/2024,02/05/2024,"Bom dia ! Consulto acerca da possibilidade de atualização das caixa SIGADAER, em virtude de realização da comissão de formação do QOCON, conforme anexo.",16
+1623913,[EEAR] SUPORTE AO USUÁRIO ,GSAU-GW,[GSAU-GW] 2S LAURIANE,[EEAR] S2 - ROCHA,[GSAU-GW] 2S - LAURIANE,ATENDIMENTO,16/04/2024,26/04/2024,Solicito a possibilidade de atualização do firefox para acessar o e-risaer. BMP 1273639 - Sala de Laudos/ Rx Panoramico Seção Odontológica.,19
+1617101,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2S SUELLEN,[EEAR] S2 - ROCHA,[EEAR] TC - WALDINEZ,ATENDIMENTO,10/04/2024,25/04/2024,"A pedido do Sr. Chefe da DEPF, TC WALDINEZ, solicito correção das caixas do SIGADAER do efetivo da DEPF, e ainda, que TODO o efetivo da DEPF possa tramitar documentos uns aos outros. Seguem detalhes, conforme publicações em BI:      
+      Ten Cel Waldinez – Chefe DIVISÃO DE ENSINO DE PÓS-FORMAÇÃO (DEPF); 
+      Cap Adriana – Chefe da SECDEPF e Chefe da SDA; 
+      Cap R/1 Tenório – Chefe da SDPA (Retirar as caixas Adjunto ao Chefe da DEPF e Chefe da SDCAPP- Não previsto no REGINT, Desvincular militar da caixa Encarregado da SECDEPF);
+       2º Ten Érica – Chefe da SAVA – (Retirar caixa Adjunto da SAVA – transferir documentos do adjunto para caixa do Chefe, a fim de não perder histórico de documentação do setor); 
+       2º Ten Caroline – Chefe da SAPR;
+       2º Ten Juliana Campos – Chefe da SACP;
+       Asp G. Chagas – Chefe da STEAD (Transferir documentos da caixa Efetivo da STEAD para a caixa Chefe da STEAD, Desvincular a militar das caixas Efetivo da SACP e Efetivo da DEPF);
+      SO Bernardes – Encarregado da SACP;
+       SO R/1 Colares – Encarregado da SDPA (transferir documentos da caixa de Encarregado da SDCAPP – que não faz parte do REGINT, mas possui documentos de grande importância para histórico do setor - para Encarregado da SDPA);
+       SO R/1 De Lima – Encarregado da SDA; 
+       1S Eleutério – Encarregado da SAVA e Encarregado da SAPR; 
+       1S Tadeu – Encarregado da STEAD;
+       1S Priscila Vieira – Efetivo da STEAD;
+        2S Franco – Efetivo da SAPR (transferir documentos da caixa Efetivo da DEPF para Efetivo da SAPR);
+        2S Suellen – SECDEPF-EF2 (Desvincular caixa SDPED ENC, pois não pertence mais ao efetivo da DEF);      
+        2S Fábio – Efetivo da SACP (transferir documentos da caixa Efetivo da SDCAPP (antiga nomenclatura) para Efetivo da SACP);   
+      3S M. Carvalho – Efetivo da STEAD - (Retirar caixa Auxiliar da SDCAPP, mas transferir documentos desta para Efetivo da STEAD, a fim de manter histórico do setor); e
+      3S R/1 J. Roberto – Efetivo da SECDEPF e Auxiliar da SAVA - (Retirar caixa da SEAC).
+
+OBS: 1) Caixas de outros setores e comissões seguirão alteração por intermédio de cada militar.
+          2) Militares da DEPF conseguem ver o setor da SAP do GSD, alocação equivocada.",25
+1616754,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1T MAIA,[EEAR] S2 - ROCHA,[EEAR] 1T - MAIA,ATENDIMENTO,10/04/2024,19/04/2024,"Solicito instalação do pacote office (Excell, Word...) no Computador da Chefia da STE-6 (Computador SDTM: 0-5630) - IP: 10.128.17.21 
+Obrigado!
+",25
+1616731,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1T PRISCILA,[EEAR] S2 - VELLENICHI,[EEAR] 1T - PRISCILA,ATENDIMENTO,10/04/2024,10/04/2024,"solicito instalação da impressora 21-eear-def-sdexec no pc com IP 10.128.19.192, pois o mesmo está solicitando senha de administrador para instalação.",25
+1616618,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2S FÁBIO PAIVA,[EEAR] S2 - VELLENICHI,[EEAR] 2S - FÁBIO PAIVA,ATENDIMENTO,10/04/2024,10/04/2024,"A página inicial do meu SIGADAER está 2S SNE FÁBIO HENRIQUE LOPES DE PAIVA. Solicito alteração para: 2S SBO FÁBIO HENRIQUE LOPES DE PAIVA.
+Informo que a minha assinatura dos documentos também está 2S SNE. Solicito alteração para a assinatura correta.",25
+1615264,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1S ITAMUR,[EEAR] S2 - VELLENICHI,[EEAR] 1S - ITAMUR,ATENDIMENTO,09/04/2024,10/04/2024,Solicito acesso a pagina comprasnet; atualização do FIREFOX para acessar o sistema e-RISAER e acesso ao SILOMS 11G na maquina SDTM-0-2730.,26
+1614451,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2S KELLY,[EEAR] S2 - VELLENICHI,[EEAR] 2S - KELLY,ATENDIMENTO,09/04/2024,10/04/2024,"SALA DO SARGENTO DE OPERAÇÕES:
+
+Solicito a atualização do navegador Mozilla para a utilização do DRIVE do google para computar os dados relativos ao serviço de Sargento de Operações. SDTM-0-2215
+",26
+1611821,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] TC LOPES,[EEAR] S2 - EMERSON,[EEAR] TC - LOPES,ATENDIMENTO,05/04/2024,01/05/2024,"Solicito instalar na máquina de IP 10.128.19.225 o programa ""Assinador SERPRO""",30
+1611340,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1S TOMÁS CALDAS,[EEAR] S2 - ROCHA,[EEAR] 1S - TOMÁS CALDAS,ATENDIMENTO,05/04/2024,19/04/2024,"Solicito a adequação do sistema dos computadores do Laboratório de Redes, do GBET, para que o SILOMS 11G (treinamento) rode nos computadores.
+
+
+          SISTEMA OPERACIONAL: Windows 10
+
+          PROGRAMA A SER INSTALADO: SILOMS 11G- treinamento. (downgrade do java e downgrade do Firefox).
+
+          USUÁRIO: 24 máquinas LAB - GBET
+
+          RAMAL: 7631
+
+ 
+",30
+1609449,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2S BRANCO,[EEAR] S2 - VELLENICHI,[EEAR] 2S - BRANCO,ATENDIMENTO,04/04/2024,10/04/2024,Senha para acesso ao OWNCLOUD para ASGOV,31
+1609139,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1S LETICIA,[EEAR] S2 - VELLENICHI,[EEAR] 1S - LETICIA,ATENDIMENTO,04/04/2024,10/04/2024,Solicito a possibilidade de configuração para acesso ao SIAFI (TELA PRETA) para os computadores da SCTAE IP 10.128.20.14 Sgt Leticia.,31
+1602835,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 3S MARCONDES,[EEAR] S2 - VELLENICHI,[EEAR] 3S - MARCONDES,ATENDIMENTO,28/03/2024,04/04/2024,Solicito downgrade do Java e Firefox nos computadores do Laboratório de Informática do GBET (LABET). Tal solicitação se faz necessária devido instrução prática avaliada de Informática de Material Bélico para a 3ª CFS/BMB.,38
+1601082,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2T S.MOURA,[EEAR] 3S - TUNISSE,[EEAR] 2T - S.MOURA,ATENDIMENTO,27/03/2024,22/04/2024,"Solicito instalação da versão do Java que me possibilite utilizar SIAFI tela preta e que não haja conflito com a versão do Java que utilizo para acessar o e-CAC (Site da Receita Federal) o qual não pode ser desinstalado pois é um site de uso diário.
+
+Seção: SCONT
+
+SAU ABERTO Nº 1570616 dado como resolvido mas ainda apresenta erro.",39
+1597700,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2S LUANA,[EEAR] S2 - ROCHA,[EEAR] 2S - LUANA,ATENDIMENTO,21/03/2024,26/03/2024,"Boa tarde. Informo que os computadores do Esquadrão Azul estão sem acesso ao sistema ORACLE. Solicito a possibilidade de reparo. Respeitosamente, 2S Luana.",45
+1593829,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1S DIOGENES,[EEAR] 3S - TUNISSE,[EEAR] 1S - DIOGENES,ATENDIMENTO,19/03/2024,05/04/2024,Solicito acesso remoto ao CPU da STRS com IP 10.128.19.221 (via Team Viewer) para permitir impressão com a máquina \\SERVIDOR-GESET\28-EEAR-DA-STRS . Responsável: 1S DIÓGENES. Ramal 8560 / 7559 / 7558,47
+1590215,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1S MARCIO SILVA,[EEAR] 3S - TUNISSE,[EEAR] 1S - MARCIO SILVA,ATENDIMENTO,15/03/2024,10/04/2024,"Solicito a possibilidade de renomear a atual função ""ACI-Processos"" para ""ACI - Aquisição/Contratação"". Outrossim, solicito a criação de uma nova função com denominação ""ACI - Execução"" com alocação aos seguintes usuários: SO MACHADO, 3S JULIANA RECHE, 3S PAULA e S1 SÉRGIO.",51
+1586736,[EEAR] SUPORTE AO USUÁRIO ,GSD-GW,[GSD-GW] MJ CRUZ,[EEAR] S2 - VELLENICHI,[GSD-GW] MJ - CRUZ,ATENDIMENTO,13/03/2024,04/04/2024,"Solicito a ativação de TOKEN para Assinatura Eletrônica.
+O TOKEN foi feito pela SIDOM de SÃO JOSÉ DOS CAMPOS.",53
+1574564,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR]  HASMANN,[EEAR] 3S - TUNISSE,[EEAR]  - HASMANN,ATENDIMENTO,04/03/2024,05/04/2024,"Prezados, bom dia!
+
+Meu nome é Robson, sou professor civil de Língua Portuguesa na EEAR (Guaratinguetá). Venho solicitar o acesso ambiente de aprendizagem virtual Educ@er a fim de realizar inscrição para o curso de Técnicas de Comunicação Escrita para Ambiente Corporativo Militar. De acordo com a Mensagem telegráfica 1/SAC/ 160224 , enviada em 1º de março.
+
+Com votos de estima,
+
+Despeço-me,
+
+Robson Batista dos Santos Hasmann",62
+1640182,[EEAR] REDE FÍSICA,GSAU-GW,[GSAU-GW] 3S SOARES,N/A,[GSAU-GW] 3S - SOARES,BANCADA,02/05/2024,02/05/2024,"Bom dia.
+Impressora do Laboratório, do GSAU-GW, parou de funcionar, pode ser que seja necessário apenas fazer uma fêmea nova.
+
+Respeitosamente/Atenciosamente",3
+1640087,[EEAR] REDE FÍSICA,EEAR,[EEAR] 1S REIS,N/A,[EEAR] 1S - REIS,BANCADA,02/05/2024,02/05/2024,"Solicito a possibilidade de alterar o local de um ponto de rede entre as salas da Seção de Pessoal Militar (SPM-2).
+Informo que não se trata de solicitação de um novo ponto de rede, apenas de alteração do local.
+
+Respeitosamente,",3
+1635781,[EEAR] HARDWARE,EEAR,[EEAR] 3S XAVIER,N/A,[EEAR] 2T - VANESSA REIS,ABERTO,26/04/2024,26/04/2024,"Solicito manutenção para o equipamento identificado abaixo:
+EQUIPAMENTO: COMPUTADOR
+Nº BMP: 1229288
+DEPENDÊNCIA: SFAP
+PROBLEMA: 
+
+O Sistema Operacional (Windows Vista), o qual está instalado em meu computador, está defasado, impossibilitando o acesso aos novos Sistemas de Pagamento do Pessoal Civil. Dado a urgência deste caso, por tratar-se de pagamento, solicito prioridade no atendimento deste Chamado SAU. Portanto, solicito a instalação de um sistema operacional mais atualizado/moderno. Por oportuno, solicito que, após a formatação/instalação do novo sistema operacional, sejam mantidos/instalados, os programas necessários a minha utilização, são eles:
+a) Doro PDF;
+b) Assinador Digital, e Token assinador (ePass2003);
+c) Adobe Reader;
+d) Winrar;
+e) Libre Office;
+f) Firefox;
+g) Google Chrome;
+i) Internet Explore;
+j) Impressora da SVPM (I.P: 10.128.21.117); e
+k) Assinatura digital no SIGADAER
+
+Acesso aos sites abaixo, por meio de Certificado Digital (Token):
+https://www.siapenet.gov.br/Portal/Servico/Apresentacao.asp (Inclusive o SIAPE - Tela Preta)
+https://esiape.sigepe.gov.br/",9
+1631591,[EEAR] HARDWARE,EEAR,[EEAR] 1S MARCELO SALES,N/A,[EEAR] 1S - MARCELO SALES,ABERTO,24/04/2024,26/04/2024,"Bom dia!
+
+Solicito manutenção para o computador BMP 1274832. Estamos tendo dificuldades para acesso ao zimbra, e-risaer e outros sistemas. Solicito a instalação do navegador Google Chrome e as configurações necessárias para acesso ao Drive.
+
+obrigado!
+
+1S SML Marcelo Sales
+ramal 7650 ",11
+1631559,[EEAR] HARDWARE,EEAR,[EEAR] 2S RAFAEL NOGUEIRA,N/A,[EEAR] 2S - RAFAEL NOGUEIRA,ABERTO,24/04/2024,24/04/2024,"Solicito manutenção para o equipamento identificado abaixo:
+EQUIPAMENTO: Computador
+Nº BMP: 1418588
+DEPENDÊNCIA: SCOPED
+BOLETIM: BOLETIM INTERNO OSTENSIVO Nº 232, de 13 de dez de 2023, do(a) EEAR
+PROBLEMA: Computador não inicia, caso seja necessário formatação, solicito a gentileza de fazer o backup do usuário calderaroeccg (1T Calderaro).
+
+2S Rafael Nogueira - R: 7601 - SDPED - rafaelnogueirarnm@fab.mil.br",11
+1631517,[EEAR] HARDWARE,EEAR,[EEAR] 3S LUIZ GONÇALVES,N/A,[EEAR] 1T - VIVIANE,ABERTO,24/04/2024,24/04/2024,"SOLICITO AO SENHOR O ATENDIMENTO A SEGUINTE PANE:
+EQUIPAMENTO: CPU DELL
+BMP: 175735
+ORIGEM: SSME
+BOLETIM:
+DEFEITO:ITEM 01 - EQUIPAMENTO LIGA MAIS NÃO CARREGA;
+                           02 -  POR FAVOR APROVEITAR PARA ATUALIZAR A ÚLTIMA VERSÃO DO LINUX; E
+                           03 -  E INSTALAR O  ""USUÁRIO"" SEM ""SENHA"", POIS ESTE EQUIPAMENTO SERÁ UTILIZADO NAS SALAS DE AULAS DESTA DEF, PARA APOIO AOS INSTRUTORES. RESPEITOSAMENTE",11
+1630800,[EEAR] HARDWARE,EEAR,[EEAR] 2S LUCAS,N/A,[EEAR] 2S - LUCAS,ABERTO,23/04/2024,25/04/2024,"EQUIPAMENTO: Computador BMP: 2247650 DEPENDÊNCIA: GSOB PROBLEMA: Solicitação de instalação de placa de vídeo. Instalação dos programas Datageosis, Autocad e pacote office. Configuação de um login para conta Usuário.",12
+1630798,[EEAR] HARDWARE,EEAR,[EEAR] 2S LUCAS,N/A,[EEAR] 2S - LUCAS,ABERTO,23/04/2024,25/04/2024,"EQUIPAMENTO: Computador BMP: 180323 DEPENDÊNCIA: GSOB PROBLEMA: Solicitação de instalação do Windows 10, placa de vídeo e SSD. Instalação dos programas Datageosis, Autocad e pacote office.",12
+1630796,[EEAR] HARDWARE,EEAR,[EEAR] 2S LUCAS,N/A,[EEAR] 2S - LUCAS,ABERTO,23/04/2024,25/04/2024,"EQUIPAMENTO: Computador BMP: 176264 DEPENDÊNCIA: GSOB PROBLEMA: Solicitação de instalação do Windows 10, placa de vídeo e SSD. Instalação dos programas Datageosis, Autocad e pacote office.",12
+1630793,[EEAR] HARDWARE,EEAR,[EEAR] 2S LUCAS,N/A,[EEAR] 2S - LUCAS,ABERTO,23/04/2024,25/04/2024,"EQUIPAMENTO: Computador BMP: 180320 DEPENDÊNCIA: GSOB PROBLEMA: Solicitação de instalação do Windows 10, placa de vídeo e SSD. Instalação dos programas Datageosis, Autocad e pacote office.",12
+1628870,[EEAR] HARDWARE,EEAR,[EEAR] 3S RONEI,N/A,[EEAR] CP - CAMPOS,ABERTO,22/04/2024,22/04/2024,"Solicito laudo de descarga para o equipamento identificado abaixo:
+EQUIPAMENTO: MONITOR
+Nº BMP:1279647
+DEPENDÊNCIA: STI
+BOLETIM:  ------
+PROBLEMA: DESCARGA DE MATERIAL, NÃO HÁ FONTE PARA O EQUIPAMENTO
+",13
+1628839,[EEAR] HARDWARE,EEAR,[EEAR] 3S RONEI,N/A,[EEAR] CP - CAMPOS,ABERTO,22/04/2024,22/04/2024,"Solicito laudo de descarga para o equipamento identificado abaixo:
+EQUIPAMENTO: MONITOR
+Nº BMP:1308238
+DEPENDÊNCIA: STI
+BOLETIM:  ------
+PROBLEMA: DESCARGA DE MATERIAL, NÃO HÁ FONTE PARA O EQUIPAMENTO",13
+1628838,[EEAR] HARDWARE,EEAR,[EEAR] 3S RONEI,N/A,[EEAR] CP - CAMPOS,ABERTO,22/04/2024,22/04/2024,"Solicito laudo de descarga para o equipamento identificado abaixo:
+EQUIPAMENTO: MONITOR
+Nº BMP:1279643
+DEPENDÊNCIA: STI
+BOLETIM:  ------
+PROBLEMA: DESCARGA DE MATERIAL, NÃO HÁ FONTE PARA O EQUIPAMENTO",13
+1628834,[EEAR] HARDWARE,EEAR,[EEAR] 3S RONEI,N/A,[EEAR] CP - CAMPOS,ABERTO,22/04/2024,22/04/2024,"Solicito laudo de descarga para o equipamento identificado abaixo:
+EQUIPAMENTO: MICROCOMPUTADOR
+Nº BMP:1308238
+DEPENDÊNCIA: STI
+BOLETIM:  ------
+PROBLEMA: DESCARGA DE MATERIAL, NÃO HÁ FONTE PARA O EQUIPAMENTO",13
+1628832,[EEAR] HARDWARE,EEAR,[EEAR] 3S RONEI,N/A,[EEAR] CP - CAMPOS,ABERTO,22/04/2024,22/04/2024,"Solicito laudo de descarga para o equipamento identificado abaixo:
+EQUIPAMENTO: MICROCOMPUTADOR
+Nº BMP:1279647
+DEPENDÊNCIA: STI
+BOLETIM:  ------
+PROBLEMA: DESCARGA DE MATERIAL, NÃO HÁ FONTE PARA O EQUIPAMENTO
+",13
+1628800,[EEAR] HARDWARE,EEAR,[EEAR] 3S RONEI,N/A,[EEAR] CP - CAMPOS,ABERTO,22/04/2024,22/04/2024,"Solicito laudo de descarga para o equipamento identificado abaixo:
+EQUIPAMENTO: MICROCOMPUTADOR
+Nº BMP:1279643
+DEPENDÊNCIA: STI
+BOLETIM:  ------
+PROBLEMA: DESCARGA DE MATERIAL, NÃO HÁ FONTE PARA O EQUIPAMENTO
+",13
+1628788,[EEAR] HARDWARE,EEAR,[EEAR] 3S JENKINS,N/A,[EEAR] 1T - QUEIROZ,ABERTO,22/04/2024,24/04/2024,"EQUIPAMENTO:  COMPUTADOR  
+Nº BMP:  180585
+DEPENDÊNCIA:  SDEXEC/GBSP   
+PROBLEMA:  Solicito formatação, pois o computador está apresentando muitas falhas e, em algumas ocasiões, ele não inicializa. Caso ele seja obsoleto e não tenha mais opção de reparo, este setor solicita o laudo de descarga.""",13
+1628768,[EEAR] HARDWARE,EEAR,[EEAR] 3S JENKINS,N/A,[EEAR] 1T - QUEIROZ,ABERTO,22/04/2024,24/04/2024,"EQUIPAMENTO:  COMPUTADOR  
+Nº BMP:  180573
+DEPENDÊNCIA:  SDEXEC/GBSP   
+PROBLEMA:  Solicito formatação, pois o computador está apresentando muitas falhas e, em algumas ocasiões, ele não inicializa. Caso ele seja obsoleto e não tenha mais opção de reparo, este setor solicita o laudo de descarga.""",13
+1628738,[EEAR] HARDWARE,EEAR,[EEAR] 3S JENKINS,N/A,[EEAR] 1T - QUEIROZ,ABERTO,22/04/2024,24/04/2024,"EQUIPAMENTO:  COMPUTADOR  
+Nº BMP:  181369
+DEPENDÊNCIA:  SDEXEC/GBSP   
+PROBLEMA:  Solicito formatação, pois o computador está apresentando muitas falhas e, em algumas ocasiões, ele não inicializa. Caso ele seja obsoleto e não tenha mais opção de reparo, este setor solicita o laudo de descarga.""",13
+1628756,[EEAR] HARDWARE,EEAR,[EEAR] 3S JENKINS,N/A,[EEAR] 1T - QUEIROZ,ABERTO,22/04/2024,24/04/2024,"EQUIPAMENTO:  COMPUTADOR  
+Nº BMP:  180577
+DEPENDÊNCIA:  SDEXEC/GBSP   
+PROBLEMA:  Solicito formatação, pois o computador está apresentando muitas falhas e, em algumas ocasiões, ele não inicializa. Caso ele seja obsoleto e não tenha mais opção de reparo, este setor solicita o laudo de descarga.""",13
+1628229,[EEAR] HARDWARE,EEAR,[EEAR] 3S LUIZ GONÇALVES,N/A,[EEAR] 1T - VIVIANE,ABERTO,19/04/2024,19/04/2024,"SOLICITO AO SENHOR A POSSIBILIDADE DE ATENDER A SEGUINTE PANE:
+EQUIPAMENTO: CPU DELL
+BMP: 175738
+ORIGEM: SSME
+BOLETIM:
+DEFEITO: PROBLEMA NO BOTÃO DE LIGA E DESLIGA",16
+1627972,[EEAR] HARDWARE,EEAR,[EEAR] 3S LUIZ GONÇALVES,N/A,[EEAR] 1T - VIVIANE,ABERTO,19/04/2024,19/04/2024,"SOLICITO AO SENHOR O ATENDIMENTO A SEGUINTE PANE:
+EQUIPAMENTO: CPU DELL
+BMP: 175680
+ORIGEM: SSME
+BOLETIM:
+DEFEITO: FORMATAR O SISTEMA OPERACIONAL QUE ESTÁ COM PANE NA SUA CONECÇÃO",16
+1625944,[EEAR] HARDWARE,EEAR,[EEAR] SO PAULO REIS,N/A,[EEAR] CP - DINIZ,ABERTO,18/04/2024,18/04/2024,"Solicito manutenção para o equipamento identificado abaixo:
+EQUIPAMENTO: Notebook Dell Latitude E5410
+Nº BMP: 1282133
+DEPENDÊNCIA: BCO/SAECA
+PROBLEMA: Restauração do sistema operacional, Win7 Professional.",17
+1625736,[EEAR] HARDWARE,EEAR,[EEAR] 2S HENRIQUE,N/A,[EEAR] 2S - HENRIQUE,ABERTO,18/04/2024,01/05/2024,Preciso de acesso ao SILOMS Modulo 11g e TREINAMENTO para instrução no ESM-ESCOLA. Computador romaze sdtm 0-0726 processador intel core i5 bmp 2001411.,17
+1625087,[EEAR] HARDWARE,EEAR,[EEAR] 3S CYNTIA MENDES,N/A,[EEAR] 1T - HILNER,ABERTO,17/04/2024,23/04/2024,"EQUIPAMENTO: Microcomputador
+
+Nº BMP: 1838152
+
+DEPENDÊNCIA: SPM2
+
+PROBLEMA: Análise para gerar laudo de descarte de material.",18
+1624210,[EEAR] HARDWARE,EEAR,[EEAR] 3S LUIZ GONÇALVES,N/A,[EEAR] 1T - VIVIANE,ABERTO,17/04/2024,17/04/2024,"SOLICITO ATENDIMENTO A SEGUINTE PANE:
+EQUIPAMENTO: CPU DELL
+BMP: 175734
+ORIGEM: SSME
+BOLETIM:
+DEFEITO: TEM QUE SER FEITA FORMATAÇÃO PARA ATUALIZAÇÃO DO SISTEMA",18
+1618325,[EEAR] HARDWARE,EEAR,[EEAR] 2S SUELLEN,N/A,[EEAR] TC - WALDINEZ,ABERTO,11/04/2024,16/04/2024,"A pedido do Sr. Chefe da DEPF, TC WALDINEZ, solicito a possibilidade em disponibilizar relatório para descarga do material de BMP 1306046, devido obsolescência do equipamento e não interesse por nenhum setor desta OM.
+EQUIPAMENTO: Servidor Ibm System X3400 M3, Processador Intel Xeon 2.4ghz, 2 Hd Sata 500gb, Ram 6gb. Nº SÉRIE: SDTM-0-3566
+Nº BMP: 1306046
+DEPENDÊNCIA: Divisão de Ensino de Pós Formação (DEPF)
+PROBLEMA: Equipamento obsoleto; não atende demanda de trabalho da Divisão; não aceito por nenhum outro setor.",24
+1639482,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1S GABRIELA,[EEAR] 3S - ALEXANDER,[EEAR] 1S - GABRIELA,PENDÊNCIA,01/05/2024,01/05/2024,"Solicito acionamento do técnico da empresa responsável pela impressora da DAS. A impressora apresenta atolamento de papel e pára de imprimir frequentemente; o que está impactando negativamente nos cumprimentos de prazos da DAS devido a grande demanda de documentos que são impressos para os concursos. Maiores informações, favor entrar em contato com o Major Augusto Moreira através do ramal 7581.",4
+1639473,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2S ANA CAROLINA,[EEAR] 3S - ALEXANDER,[EEAR] MJ - AUGUSTO MOREIRA,PENDÊNCIA,01/05/2024,02/05/2024,"Boa tarde! Venho relatar que a impressora disponibilizada para a Divisão de Admissão e Seleção, mediante contrato, não atende à demanda da Divisão, uma vez que, somos responsáveis por gerar todo material de prova disponibilizado para o Brasil para realização dos exames de admissão ao EAGS e CFS. Cabe ressaltar que, quando essa mesma impressora chegou na Divisão, o técnico informou que ela seria provisória e desde então não foi substituída. Dos problemas apresentados pela impressora, menciono o superaquecimento, entrave de folhas e o puxamento de folhas múltiplas para impressão. Solicitamos, dessa forma, se possível, que este chamado seja levado ao conhecimento dos Fiscais de Contrato para que possamos verificar a possibilidade de substituição, conforme palavras do técnico anteriormente, de modo que possamos minimizar os problemas apresentados. Respeitosamente/Atenciosamente.",4
+1639426,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1S LEOTE,N/A,[EEAR] 1T - GUILHERME,PENDÊNCIA,01/05/2024,01/05/2024,"Solicito manutenção para o equipamento identificado abaixo:
+EQUIPAMENTO: Computador ThinkCentre
+Nº BMP:  inexistente
+N° SDTM: -0-3356
+DEPENDÊNCIA: Subseção de Ensino de Idiomas SSEI, ramal 7618.
+PROBLEMA: Não acessa o sistema operacional.",4
+1639001,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2S MESSIAS,[EEAR] 3S - ALEXANDER,[EEAR] 2S - MESSIAS,PENDÊNCIA,30/04/2024,02/05/2024,"Solicito perfil para solicitação de viatura , módulo controle de viatura.",5
+1636379,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2S LUANA,[EEAR] 3S - ALEXANDER,[EEAR] 2S - LUANA,PENDÊNCIA,29/04/2024,01/05/2024,"Bom dia. Informo que a impressora do Esquadrão Azul está com problema de atolamento de papel e, também, de envio de impressão para a mesma. Respeitosamente, 2S Luana.",6
+1636080,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 1S WALLS,[EEAR] 3S - ALEXANDER,[EEAR] 1S - WALLS,PENDÊNCIA,29/04/2024,01/05/2024,"Instalação da Impressora Samsung k7600 Séries - IP 10.128.21.104 para o usuário 10.128.17.1
+obs: já estava instalada e desinstalou automaticamente",6
+1635308,[EEAR] SUPORTE AO USUÁRIO ,GSAU-GW,[GSAU-GW] CP SÔNIA,N/A,[GSAU-GW] CP - SÔNIA,PENDÊNCIA,26/04/2024,26/04/2024,"Solicito avaliação do equipamento identificado abaixo e caso seja considerado inservível ou irrecuperável, peço emissão de laudo para dar início ao processo de descarga. EQUIPAMENTO: Estabilizador de Voltagem Marca Sms, Mod. Avrt 1000 S. SISPAT: 41048 - FCG: 6772. Nº BMP: 209030 DEPENDÊNCIA: Subseção de Farmácia Hospitalar – SSFAR.",9
+1633753,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2T LILIAN,[EEAR] 3S - ALEXANDER,[EEAR] 2T - LILIAN,PENDÊNCIA,25/04/2024,01/05/2024,"O computador da professora civil Cristiane não está conectando à internet. 
+Ramal para tratar direto com a professora: 7613",10
+1632605,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 3S BONIFÁCIO,N/A,[EEAR] CP - FRANCESCO,PENDÊNCIA,24/04/2024,26/04/2024,"Solicito laudo de descarga para os equipamentos identificados abaixo:
+
+EQUIPAMENTO: 
+A)    3 Nobreak 1.4 Manager Iii
+B)    No Break De 0,6 Kva Bivolt Com Bateria Selada E Duração De 20 Minutos.
+C)    Eatabilizador Microreg 800 De 0,8 Kva, 110/220 V, Avr 800 Bi
+
+Nº BMP: 
+A)    1510959, 1510963 e 1510968.
+B)    209235 
+C)    208996 
+
+DEPENDÊNCIA: EC/SMOB
+
+PROBLEMA: NÃO FUNCIONA, MATERIAL OBSOLETO.",11
+1632569,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 3S BONIFÁCIO,N/A,[EEAR] CP - FRANCESCO,PENDÊNCIA,24/04/2024,26/04/2024,"Solicito manutenção para o equipamento identificado abaixo:
+
+EQUIPAMENTO: 
+A)    3 Nobreak 1.4 Manager Iii
+B)    No Break De 0,6 Kva Bivolt Com Bateria Selada E Duração De 20 Minutos.
+C)    Eatabilizador Microreg 800 De 0,8 Kva, 110/220 V, Avr 800 Bi
+
+Nº BMP: 
+A)    1510959, 1510963 e 1510968.
+B)    209235 
+C)    208996 
+
+DEPENDÊNCIA: EC/SMOB
+
+PROBLEMA: NÃO FUNCIONA, MATERIAL OBSOLETO.",11
+1631002,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] S2 FILIPE MARCONDES,[EEAR] CB - ROSA MOURA,[EEAR] S2 - FILIPE MARCONDES,PENDÊNCIA,23/04/2024,29/04/2024,Programa do SIAFI HOD não esta abrindo nesta máquina  ,12
+1629149,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] TC GABRIEL,N/A,[EEAR] TC - GABRIEL,PENDÊNCIA,22/04/2024,22/04/2024,Monitor marca LG não funciona. Encaminharei à SDTIC.,13
+1628436,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 3S PATTY SERAPIÃO,[EEAR] 3S - TUNISSE,[EEAR] 3S - PATTY SERAPIÃO,PENDÊNCIA,22/04/2024,29/04/2024,"Bom Dia!  Preciso fazer alteração de endereço de um forncedor no SILOMS - CATALOGAÇÃO, quando localizo o fornecedor para alterar o endereço não habilita e não mostra a  opção de alterar, solicito a possibilidade
+de me informar onde no sstema tem essa opção de alterar. Obrigada  ",13
+1620133,[EEAR] SUPORTE AO USUÁRIO ,GSAU-GW,[GSAU-GW] 2T ANNIE MOORE,[EEAR] 3S - TUNISSE,[GSAU-GW] 2T - ANNIE MOORE,PENDÊNCIA,12/04/2024,01/05/2024,solicito acesso ao E-RISAER,23
+1618503,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR]  JSA,[EEAR] S2 - EMERSON,[EEAR]  - JSA,PENDÊNCIA,11/04/2024,22/04/2024,"EQUIPAMENTO: COMPUTADOR Nº BMP: 1228865
+DEPENDÊNCIA: SDP/SFAP 
+PROBLEMA: COMPUTADOR NÃO ACESSA O DOMÍNIO DA REDE DA EEAR, NÃO SENDO POSSÍVEL ACESSAR AS PASTAS DA SEÇÃO E NÃO CONSEGUINDO IMPRIMIR NA ILHA DE IMPRESSÃO LOCALIZADA NA SEÇÃO DE VETERANOS E PENSIONISTAS - SVP (Lexmark MX510 Series XL).
+RESSALTO QUE, EM CASO DE NECESSIDADE DE FORMATAÇÃO DA MAQUINA, SEJA MANTIDA A PASTA A PASTA BACKUP 05/12/2023 (NO MEU COMPUTADOR/DOCUMENTOS J/BACKUP) . E A INSTALAÇÃO DOS SISTEMAS OPERACIONAIS: SIAPE / SIAPENET / SIGEPE / SIGAC /E-PESSOAL (TODOS ENCONTRAM-SE INSTALADOS ATUALMENTE NA MAQUINA).",24
+1617453,[EEAR] SUPORTE AO USUÁRIO ,GSAU-GW,[GSAU-GW] 2T TAMIRES LIMA,N/A,[GSAU-GW] 2T - TAMIRES LIMA,PENDÊNCIA,10/04/2024,22/04/2024,"ASP QOCON ENFERMEIRA ANGELA TAMIRES CORRÊA DE LIMA, NOME DE GUERRA: TAMIRES LIMA, SARAM 7623674, HOSPITAL SETOR EMERGÊNCIA.
+SOLICITO A LIBERAÇÃO DE PERFIL NA EEAR NO SILOMS DEVIDO A COMISSÃO DE RECEBIMENTO DE MATERIAIS E FISCALIZAÇÃO DE CONTRATOS QUE ATUALMENTE FAÇO PARTE.",25
+1612640,[EEAR] SUPORTE AO USUÁRIO ,GSAU-GW,[GSAU-GW] 2T THAISE GALVÃO,[EEAR] CB - ROSA MOURA,[GSAU-GW] 2T - THAISE GALVÃO,PENDÊNCIA,08/04/2024,01/05/2024,"ESTOU SEM ACESSO A INSERÇÃO DE DOCUMENTOS NO SILOMS, FAÇO PARTE DE UMA COMISSÃO QUE PRECISA INSERIR DOCUMENTOS. SOLICITO ACESSO. ATENCIOSAMENTE, RESPEITOSAMENTE. ",27
+1612570,[EEAR] SUPORTE AO USUÁRIO ,GSAU-GW,[GSAU-GW] 2T RAISSA MIRA,[EEAR] 3S - ALEXANDER,[GSAU-GW] 2T - RAISSA MIRA,PENDÊNCIA,08/04/2024,02/05/2024,Foi aberto SAU nº 1594947 para inclusão de alocação EEAR ALIENAVÉL E GSAU-GW/SIL ALIENAVÉL e autorização para inclusão de alienação/descarga do material do   (GSAU-GW/ SIL-ALIENAVEL 20367 ) no SILOMS SUPRIMENTO WEB V1.7.38(Conforme arquivo anexo) haja vista ter assumido a Chefia do referido setor.,27
+1611822,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] TC LOPES,N/A,[EEAR] TC - LOPES,PENDÊNCIA,05/04/2024,08/04/2024,Solicito a substituição da Máquina instalada na Chefia da SDEXEC a consequente instalação e transferência dos arquivos do atual aparelho para o substituto (já disponível na sala da Chefia). ,30
+1608460,[EEAR] SUPORTE AO USUÁRIO ,GSD-GW,[GSD-GW] 2S TITO,N/A,[GSD-GW] 1T - PAVANELLI,PENDÊNCIA,03/04/2024,05/04/2024,GSD GW - ESQUADRÃO DE SEGURANÇA DAS INSTALAÇÕES - 7983- SOLICITO A POSSIBILIDADE DE SER FEITA A MANUTENÇÃO EM UM COMPUTADOR (CPU) Nº BMP 218179 QUE ENCONTRA-SE EM PANE (AS ENTRADAS USB NÃO ESTÃO RECONHECENDO DISPOSITIVOS),32
+1608365,[EEAR] SUPORTE AO USUÁRIO ,GSAU-GW,[GSAU-GW] 2T THAISE GALVÃO,[EEAR] 3S - TUNISSE,[GSAU-GW] 2T - THAISE GALVÃO,PENDÊNCIA,03/04/2024,17/04/2024,"estou sem acesso a rede fênix, estava com acesso até ontem a noite. Solicito acesso por gentileza.",32
+1608054,[EEAR] SUPORTE AO USUÁRIO ,GSAU-GW,[GSAU-GW] SO AUGUSTO CÉSAR,[EEAR] 3S - TUNISSE,[GSAU-GW] SO - AUGUSTO CÉSAR,PENDÊNCIA,03/04/2024,23/04/2024,"Bom dia !
+Solicito respeitosamente a transferência da impressora CAIS que encontra-se na sala 07(sete), para sala 06(seis).  Por motivo de ativação da sala  07(sete) para consultório de atendimento médico.",32
+1600124,[EEAR] SUPORTE AO USUÁRIO ,PAGW,[PAGW] 1S BARBARA CRISTINE,N/A,[PAGW] 1S - BARBARA CRISTINE,PENDÊNCIA,26/03/2024,27/03/2024,"Bom Dia!
+
+A impressora da PAGW foi retirada semana passada para reparos. Gostaria de saber se há alguma previsão para retorno. Desde já, agradeço.",40
+1599324,[EEAR] SUPORTE AO USUÁRIO ,GSAU-GW,[GSAU-GW] 1T PRADO,N/A,[GSAU-GW] 1T - PRADO,PENDÊNCIA,26/03/2024,26/03/2024,"Ao tentar entrar no Google Chrome, é solicitado uma senha para acesso. Não estou conseguindo utilizar o navegador para entra no email zimbra e e-risaer. ",40
+1570437,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] SO PAULO REIS,N/A,[EEAR] CP - DINIZ,PENDÊNCIA,29/02/2024,04/03/2024,"Solicito parecer técnico do equipamento identificado abaixo:
+EQUIPAMENTO:Microcomputador Lenovo Modelo A70, 2gb Memória Ram, Processador Core 2 Duo 2,93ghz, Hd 320gb, Dvd-Rw, Acompanha Telcado Usb E Mouse Óptico Usb, Windows 7 Pro, Monitor Lcd Lenovo 18,5""
+Nº BMP: 1280174
+DEPENDÊNCIA: SAECA
+PROBLEMA: Material sem condições de uso",66
+1570434,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] SO PAULO REIS,N/A,[EEAR] CP - DINIZ,PENDÊNCIA,29/02/2024,04/03/2024,"Solicito parecer técnico do equipamento identificado abaixo:
+EQUIPAMENTO:Microcomputador Lenovo Modelo A70, 2gb Memória Ram, Processador Core 2 Duo 2,93ghz, Hd 320gb, Dvd-Rw, Acompanha Telcado Usb E Mouse Óptico Usb, Windows 7 Pro, Monitor Lcd Lenovo 18,5""
+Nº BMP: 1280152
+DEPENDÊNCIA: SAECA
+PROBLEMA: Material sem condições de uso",66
+1570391,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] SO PAULO REIS,N/A,[EEAR] CP - DINIZ,PENDÊNCIA,29/02/2024,04/03/2024,"Solicito parecer técnico do equipamento identificado abaixo:
+EQUIPAMENTO:Microcomputador Lenovo Modelo A70, 2gb Memória Ram, Processador Core 2 Duo 2,93ghz, Hd 320gb, Dvd-Rw, Acompanha Telcado Usb E Mouse Óptico Usb, Windows 7 Pro, Monitor Lcd Lenovo 18,5""
+Nº BMP: 1280143
+DEPENDÊNCIA: SAECA
+PROBLEMA: Material sem condições de uso",66
+1570387,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] SO PAULO REIS,N/A,[EEAR] SO - DINIZ,PENDÊNCIA,29/02/2024,04/03/2024,"Solicito parecer técnico do equipamento identificado abaixo:
+EQUIPAMENTO:Microcomputador Lenovo Modelo A70, 2gb Memória Ram, Processador Core 2 Duo 2,93ghz, Hd 320gb, Dvd-Rw, Acompanha Telcado Usb E Mouse Óptico Usb, Windows 7 Pro, Monitor Lcd Lenovo 18,5""
+Nº BMP: 1280142
+DEPENDÊNCIA: SAECA
+PROBLEMA: Material sem condições de uso",66
+1570384,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] SO PAULO REIS,N/A,[EEAR] CP - DINIZ,PENDÊNCIA,29/02/2024,04/03/2024,"Solicito parecer técnico do equipamento identificado abaixo:
+EQUIPAMENTO:Microcomputador Lenovo Modelo A70, 2gb Memória Ram, Processador Core 2 Duo 2,93ghz, Hd 320gb, Dvd-Rw, Acompanha Telcado Usb E Mouse Óptico Usb, Windows 7 Pro, Monitor Lcd Lenovo 18,5""
+Nº BMP: 1279905
+DEPENDÊNCIA: SAECA
+PROBLEMA: Material sem condições de uso",66
+1570380,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] SO PAULO REIS,N/A,[EEAR] CP - DINIZ,PENDÊNCIA,29/02/2024,04/03/2024,"Solicito parecer técnico do equipamento identificado abaixo:
+EQUIPAMENTO:Microcomputador Lenovo Modelo A70, 2gb Memória Ram, Processador Core 2 Duo 2,93ghz, Hd 320gb, Dvd-Rw, Acompanha Telcado Usb E Mouse Óptico Usb, Windows 7 Pro, Monitor Lcd Lenovo 18,5""
+Nº BMP: 1279857
+DEPENDÊNCIA: SAECA
+PROBLEMA: Material sem condições de uso",66
+1570404,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] SO PAULO REIS,N/A,[EEAR] CP - DINIZ,PENDÊNCIA,29/02/2024,04/03/2024,"Solicito parecer técnico do equipamento identificado abaixo:
+EQUIPAMENTO:Microcomputador Lenovo Modelo A70, 2gb Memória Ram, Processador Core 2 Duo 2,93ghz, Hd 320gb, Dvd-Rw, Acompanha Telcado Usb E Mouse Óptico Usb, Windows 7 Pro, Monitor Lcd Lenovo 18,5""
+Nº BMP: 1279846
+DEPENDÊNCIA: SAECA
+PROBLEMA: Material sem condições de uso",66
+1570363,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] SO PAULO REIS,N/A,[EEAR] CP - DINIZ,PENDÊNCIA,29/02/2024,04/03/2024,"Solicito parecer técnico do equipamento identificado abaixo:
+EQUIPAMENTO:Microcomputador Lenovo Modelo A70, 2gb Memória Ram, Processador Core 2 Duo 2,93ghz, Hd 320gb, Dvd-Rw, Acompanha Telcado Usb E Mouse Óptico Usb, Windows 7 Pro, Monitor Lcd Lenovo 18,5""
+Nº BMP: 1279777
+DEPENDÊNCIA: SAECA
+PROBLEMA: Material sem condições de uso.",66
+1570360,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] SO PAULO REIS,N/A,[EEAR] CP - DINIZ,PENDÊNCIA,29/02/2024,04/03/2024,"Solicito parecer técnico do equipamento identificado abaixo:
+EQUIPAMENTO:Microcomputador Lenovo Modelo A70, 2gb Memória Ram, Processador Core 2 Duo 2,93ghz, Hd 320gb, Dvd-Rw, Acompanha Telcado Usb E Mouse Óptico Usb, Windows 7 Pro, Monitor Lcd Lenovo 18,5""
+Nº BMP: 1279770
+DEPENDÊNCIA: SAECA
+PROBLEMA: Material sem condições de uso.",66
+1570345,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] SO PAULO REIS,N/A,[EEAR] CP - DINIZ,PENDÊNCIA,29/02/2024,04/03/2024,"Solicito parecer técnico do equipamento identificado abaixo:
+EQUIPAMENTO:Microcomputador Lenovo Modelo A70, 2gb Memória Ram, Processador Core 2 Duo 2,93ghz, Hd 320gb, Dvd-Rw, Acompanha Telcado Usb E Mouse Óptico Usb, Windows 7 Pro, Monitor Lcd Lenovo 18,5""
+Nº BMP: 1279768
+DEPENDÊNCIA: SAECA
+PROBLEMA: Material sem condições de uso.",66
+1219811,[EEAR] SUPORTE AO USUÁRIO ,GSAU-GW,[GSAU-GW] 1T FABIANA,N/A,[GSAU-GW] 1T - FABIANA,PENDÊNCIA,03/03/2023,30/04/2024,"EQUIPAMENTO: MONITOR HPLE 191WM 
+BMP: 1227006
+ DEPENDÊNCIA: SPMED 
+PROBLEMA: MONITOR LIGA E DESLIGA SOZINHO",429
+1640291,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 2T ÉVERTON,N/A,[EEAR] 2T - ÉVERTON,BANCADA,02/05/2024,02/05/2024,"Boa tarde, solicito ajuda na configuração da rede de internet do PROFESP. Com a mudança de prédio e, já com os computadores instalados, não estamos tendo acesso a rede. Precisamos de apoio físico, pois nem a linha telefônica foi instalada. Nosso novo local é antiga Comunicação Social, ao lado da SIDOM.",3
+1639888,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] 3S MARIANA ALVES,N/A,[EEAR] 3S - MARIANA ALVES,BANCADA,02/05/2024,02/05/2024,Instalação de pacote Office e de placa Offboard ou configuração para duas telas.,3
+1639766,[EEAR] SUPORTE AO USUÁRIO ,EEAR,[EEAR] S2 ROCHA,N/A,[EEAR] 2S - R AUGUSTO,BANCADA,02/05/2024,02/05/2024,INCLUSÃO CAIXA SIGADAER SUPERVISOR DE DIA AO RANCHO,3
